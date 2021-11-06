@@ -4,12 +4,13 @@
     <img src="https://komarev.com/ghpvc/?username=S-Koiso" alt="S-Koiso" />
   </a>
 </p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=S-Koiso&count_private=true&show_icons=true&theme=monokai" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=S-Koiso&repo=opa-deworming&theme=monokai" />
-  </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=S-Koiso&count_private=true&show_icons=true&theme=monokai" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/pin/?username=S-Koiso&repo=opa-deworming&theme=monokai" />
+</a>
 
 <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
