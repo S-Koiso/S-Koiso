@@ -1,9 +1,9 @@
 ### Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="left" height="100px" src="https://github-readme-stats.vercel.app/api?username=S-Koiso&count_private=true&show_icons=true&theme=monokai" />
+   <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api?username=S-Koiso&count_private=true&show_icons=true&theme=monokai" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="left" height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=S-Koiso&repo=opa-deworming&theme=monokai" />
+   <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=S-Koiso&repo=opa-deworming&theme=monokai" />
 </a>
 
 <!--
