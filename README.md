@@ -2,9 +2,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api?username=S-Koiso&count_private=true&show_icons=true&theme=monokai" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=S-Koiso&repo=opa-deworming&theme=monokai" />
-</a>
+
 
 <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -14,6 +12,9 @@
   <a href="https://github.com/S-Koiso/S-Koiso/">
     <img src="https://komarev.com/ghpvc/?username=S-Koiso" alt="S-Koiso" />
   </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=S-Koiso&repo=opa-deworming&theme=monokai" />
+</a>
 </p>
 
 -->
