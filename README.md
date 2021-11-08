@@ -1,14 +1,20 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=plastic">
-  <img src="https://img.shields.io/badge/-Visualstudiocode-007ACC.svg?logo=visualstudiocode&style=plastic">
-  <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
-  <img src="https://img.shields.io/badge/-Microsoft-666666.svg?logo=microsoft&style=plastic">
-  <img src="https://img.shields.io/badge/-Microsoftexcel-217346.svg?logo=microsoftexcel&style=plastic">
-  <img src="https://img.shields.io/badge/-Microsoftpowerpoint-D24726.svg?logo=microsoftpowerpoint&style=plastic">
-   <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">   
+  <a href="https://github.com/S-Koiso/S-Koiso/">
+    <img height="20px"src="https://komarev.com/ghpvc/?username=S-Koiso" alt="S-Koiso" />
+  </a>
+  <img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=popout">
+  <img src="https://img.shields.io/badge/-Visualstudiocode-007ACC.svg?logo=visualstudiocode&style=popout">
+  <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=popout">
+  <img src="https://img.shields.io/badge/-Microsoft-666666.svg?logo=microsoft&style=popout">
+  <img src="https://img.shields.io/badge/-Microsoftexcel-217346.svg?logo=microsoftexcel&style=popout">
+  <img src="https://img.shields.io/badge/-Microsoftpowerpoint-D24726.svg?logo=microsoftpowerpoint&style=popout">
+  <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=popout">   
 </p>
+<!--- ^great icon generator
+https://tech-blog.s-yoshiki.com/entry/150#%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E3%80%82
+--->
 
 <p align="left">
    <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,13 +31,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api?username=S-Koiso&show_icons=true&theme=monokai&count_private=true" />
 </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Koiso&layout=compact&theme=monokai" />
-  </a>
 <p align="left"> 
-  <a href="https://github.com/S-Koiso/S-Koiso/">
-    <img src="https://komarev.com/ghpvc/?username=S-Koiso" alt="S-Koiso" />
-  </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=S-Koiso&repo=opa-deworming&theme=monokai" />
 </a>
