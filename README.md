@@ -12,10 +12,10 @@
 
 <p align="left">
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api?username=S-Koiso&show_icons=true&theme=monokai&count_private=true" />
+      <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=S-Koiso&show_icons=true&theme=monokai&count_private=true" />
    </a>
    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="left" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Koiso&layout=compact&count_private=true&show_icons=true&theme=monokai" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Koiso&layout=compact&count_private=true&show_icons=true&langs_count=3&theme=monokai" />
    </a>
 </p>
 
