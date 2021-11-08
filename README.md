@@ -1,9 +1,27 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Koiso&show_icons=true&theme=monokai&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Koiso&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img src="https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=plastic">
+  <img src="https://img.shields.io/badge/-Visualstudiocode-007ACC.svg?logo=visualstudiocode&style=plastic">
+  <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
+  <img src="https://img.shields.io/badge/-Microsoft-666666.svg?logo=microsoft&style=plastic">
+  <img src="https://img.shields.io/badge/-Microsoftexcel-217346.svg?logo=microsoftexcel&style=plastic">
+  <img src="https://img.shields.io/badge/-Microsoftpowerpoint-D24726.svg?logo=microsoftpowerpoint&style=plastic">
+   <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">   
+</p>
+
+<p align="left">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api?username=S-Koiso&show_icons=true&theme=monokai&count_private=true" />
+   </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="left" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Koiso&layout=compact&count_private=true&show_icons=true&theme=monokai" />
+   </a>
+</p>
 
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Koiso&show_icons=true&theme=monokai&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Koiso&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="left" height="120px" src="https://github-readme-stats.vercel.app/api?username=S-Koiso&show_icons=true&theme=monokai&count_private=true" />
 </a>
