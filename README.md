@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/-Microsoft-666666.svg?logo=microsoft&style=popout">
   <img src="https://img.shields.io/badge/-Microsoftexcel-217346.svg?logo=microsoftexcel&style=popout">
   <img src="https://img.shields.io/badge/-Microsoftpowerpoint-D24726.svg?logo=microsoftpowerpoint&style=popout">
-  <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=popout">   
+  <img src="https://img.shields.io/badge/-Python-FECE00.svg?logo=python&style=popout">
+  <img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=LaTeX&style=popout">
 </p>
 <!--- ^great icon generator
 https://tech-blog.s-yoshiki.com/entry/150#%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%9F%E3%80%82
